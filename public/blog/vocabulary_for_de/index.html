@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Vocabulary for Data Engineers | Vidush</title>
+<meta name="keywords" content="">
+<meta name="description" content="Terms used by Data Engineers">
+<meta name="author" content="">
+<link rel="canonical" href="https://vidush.netlify.app/blog/vocabulary_for_de/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.c9e22160c07e7a10b2185a9ed417298a2ac4c00542b870e00b7d3c940f064a82.css" integrity="sha256-yeIhYMB&#43;ehCyGFqe1BcpiirEwAVCuHDgC308lA8GSoI=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://vidush.netlify.app/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://vidush.netlify.app/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://vidush.netlify.app/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://vidush.netlify.app/apple-touch-icon.png">
+<link rel="mask-icon" href="https://vidush.netlify.app/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Vocabulary for Data Engineers" />
+<meta property="og:description" content="Terms used by Data Engineers" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vidush.netlify.app/blog/vocabulary_for_de/" />
+<meta property="og:image" content="https://vidush.netlify.app/blog/Vocabulary_For_DE/img1.jpeg" /><meta property="article:section" content="blog" />
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://vidush.netlify.app/blog/Vocabulary_For_DE/img1.jpeg" />
+<meta name="twitter:title" content="Vocabulary for Data Engineers"/>
+<meta name="twitter:description" content="Terms used by Data Engineers"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Blogs",
+      "item": "https://vidush.netlify.app/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Vocabulary for Data Engineers",
+      "item": "https://vidush.netlify.app/blog/vocabulary_for_de/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Vocabulary for Data Engineers",
+  "name": "Vocabulary for Data Engineers",
+  "description": "Terms used by Data Engineers",
+  "keywords": [
+    
+  ],
+  "articleBody": "Data Engineering Data Engineering is one of the leading \u0026 emerging fields. The demand for Data engineers has risen in recent days. When you google what is data engineering? you can get thousands of answers but here I pointing out only three answers that I understood clearly and I hope that will make you get a clear understanding.\n  Data engineering is the practice of designing and building systems for collecting, storing, and analyzing data at scale.\n  The key to understanding what data engineering lies in the “engineering” part. Engineers design and build things. “Data” engineers design and build pipelines that transform and transport data into a format wherein, by the time it reaches the Data Scientists or other end users, it is in a highly usable state.\n  Data engineering is the complex task of making raw data usable to data scientists and groups within an organization. Data engineering encompasses numerous specialties of data science.\n  In this article, I will mention key terms used by data engineers regularly. I have tried my best to keep this as simple as possible and decided to compile it all in one place.\nKey Terms Data Lineage Data lineage is a process of understanding how the data generated from the source and how it reaches the destination. Simply it answers the following questions.\n Where the data begins? What happens to it over time? Where it moves over time? Where it ends up?  Data Lineage Tools  Keboola Dremio Kylo Octopai  Data Pipeline Sequences of processes/steps that copy, transform, load and analyze the data.\nDAG Data pipelines are modeled as Directed acyclic graphs. DAG is a conceptual representation of a series of activities or in other words, a mathematical abstraction of a data pipeline.\nData Warehouse Exists on top of several databases and used for business intelligence.\nExamples  Google BigQuery Snowflake  Apache Impala Basically, to overcome the slowness of Hive queries, Cloudera offers a seperate tool is what we call Impala.\n Offers high-performance, low-latency SQL queries. Only available in Hadoop distribution. MPP (Massive Parallel Processing) query engine that executes on Hadoop platform.  Apache Kafka Open-source streaming platform.\nOLTP Online Transactional Processing designed for transactional processing, typically follow data normalization rules.\n Transactional Real time fast processing Normalized Examples: Financial transactional systems, ATM Center  OLAP Online Analytical Processing models used for datawarehouse and datamart applications.\n Analytical Slow queries Denormalized Historical data Example: Recommendation Systems  References  https://www.youtube.com/watch?v=xOn-DJbUi1w\u0026t=61s  That’s it! Happy learning ..! Will update other terms in future!\n",
+  "wordCount" : "408",
+  "inLanguage": "en",
+  "image":"https://vidush.netlify.app/blog/Vocabulary_For_DE/img1.jpeg","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://vidush.netlify.app/blog/vocabulary_for_de/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vidush",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vidush.netlify.app/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header sticky-header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://vidush.netlify.app/" accesskey="h" title="Vidush (Alt + H)">Vidush</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://vidush.netlify.app/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vidush.netlify.app/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vidush.netlify.app/blog" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vidush.netlify.app/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vidush.netlify.app/experience" title="Experiences">
+                    <span>Experiences</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vidush.netlify.app/certifications" title="Certifications">
+                    <span>Certifications</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://vidush.netlify.app/publications" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://vidush.netlify.app/">Home</a>&nbsp;»&nbsp;<a href="https://vidush.netlify.app/blog/">Blogs</a></div>
+    <h1 class="post-title">
+      Vocabulary for Data Engineers
+    </h1>
+    <div class="post-description">
+      Terms used by Data Engineers
+    </div>
+    <div class="post-meta">
+
+
+June 2022
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="lazy" src="https://vidush.netlify.app/blog/Vocabulary_For_DE/img1.jpeg" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">‎ Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#data-engineering" aria-label="Data Engineering">Data Engineering</a></li>
+                <li>
+                    <a href="#key-terms" aria-label="Key Terms">Key Terms</a><ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#data-lineage" aria-label="Data Lineage">Data Lineage</a><ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#data-lineage-tools" aria-label="Data Lineage Tools">Data Lineage Tools</a></li></ul>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#data-pipeline" aria-label="Data Pipeline">Data Pipeline</a></li>
+                <li>
+                    <a href="#dag" aria-label="DAG">DAG</a></li>
+                <li>
+                    <a href="#data-warehouse" aria-label="Data Warehouse">Data Warehouse</a><ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#examples" aria-label="Examples">Examples</a></li></ul>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#apache-impala" aria-label="Apache Impala">Apache Impala</a></li>
+                <li>
+                    <a href="#apache-kafka" aria-label="Apache Kafka">Apache Kafka</a></li>
+                <li>
+                    <a href="#oltp" aria-label="OLTP">OLTP</a></li>
+                <li>
+                    <a href="#olap" aria-label="OLAP">OLAP</a></li>
+                <li>
+                    <a href="#references" aria-label="References">References</a></li></ul>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#thats-it" aria-label="That’s it!">That’s it!</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h1 id="data-engineering">Data Engineering<a hidden class="anchor" aria-hidden="true" href="#data-engineering">#</a></h1>
+<p>Data Engineering is one of the leading &amp; emerging fields. The demand for Data engineers has risen in recent days. When you google what is data engineering? you can get thousands of answers but here I pointing out only three answers that I understood clearly and I hope that will make you get a clear understanding.</p>
+<ul>
+<li>
+<p><strong>Data engineering</strong> is the practice of designing and building systems for collecting, storing, and analyzing data at scale.</p>
+</li>
+<li>
+<p>The key to understanding what data engineering lies in the “engineering” part. Engineers design and build things. “Data” engineers design and build pipelines that transform and transport data into a format wherein, by the time it reaches the Data Scientists or other end users, it is in a highly usable state.</p>
+</li>
+<li>
+<p><strong>Data engineering</strong> is the complex task of making raw data usable to data scientists and groups within an organization. Data engineering encompasses numerous specialties of data science.</p>
+</li>
+</ul>
+<p>In this article, I will mention key terms used by data engineers regularly. I have tried my best to keep this as simple as possible and decided to compile it all in one place.</p>
+<h1 id="key-terms">Key Terms<a hidden class="anchor" aria-hidden="true" href="#key-terms">#</a></h1>
+<h3 id="data-lineage">Data Lineage<a hidden class="anchor" aria-hidden="true" href="#data-lineage">#</a></h3>
+<p>Data lineage is a process of understanding how the data generated from the source and how it reaches the destination. Simply it answers the following questions.</p>
+<ul>
+<li>Where the data begins?</li>
+<li>What happens to it over time?</li>
+<li>Where it moves over time?</li>
+<li>Where it ends up?</li>
+</ul>
+<h5 id="data-lineage-tools">Data Lineage Tools<a hidden class="anchor" aria-hidden="true" href="#data-lineage-tools">#</a></h5>
+<ol>
+<li>Keboola</li>
+<li>Dremio</li>
+<li>Kylo</li>
+<li>Octopai</li>
+</ol>
+<h3 id="data-pipeline">Data Pipeline<a hidden class="anchor" aria-hidden="true" href="#data-pipeline">#</a></h3>
+<p>Sequences of processes/steps that copy, transform, load and analyze the data.</p>
+<h3 id="dag">DAG<a hidden class="anchor" aria-hidden="true" href="#dag">#</a></h3>
+<p>Data pipelines are modeled as <em>Directed acyclic graphs</em>. DAG is a conceptual representation of a series of activities or in other words, a mathematical abstraction of a data pipeline.</p>
+<h3 id="data-warehouse">Data Warehouse<a hidden class="anchor" aria-hidden="true" href="#data-warehouse">#</a></h3>
+<p>Exists on top of several databases and used for business intelligence.</p>
+<h5 id="examples">Examples<a hidden class="anchor" aria-hidden="true" href="#examples">#</a></h5>
+<ol>
+<li>Google BigQuery</li>
+<li>Snowflake</li>
+</ol>
+<h3 id="apache-impala">Apache Impala<a hidden class="anchor" aria-hidden="true" href="#apache-impala">#</a></h3>
+<p>Basically, to overcome the slowness of Hive queries, Cloudera offers a seperate tool is what we call Impala.</p>
+<ul>
+<li>Offers high-performance, low-latency SQL queries.</li>
+<li>Only available in Hadoop distribution.</li>
+<li>MPP (Massive Parallel Processing) query engine that executes on Hadoop platform.</li>
+</ul>
+<h3 id="apache-kafka">Apache Kafka<a hidden class="anchor" aria-hidden="true" href="#apache-kafka">#</a></h3>
+<p>Open-source streaming platform.</p>
+<h3 id="oltp">OLTP<a hidden class="anchor" aria-hidden="true" href="#oltp">#</a></h3>
+<p><em>Online Transactional Processing</em> designed for transactional processing, typically follow data normalization rules.</p>
+<ul>
+<li>Transactional</li>
+<li>Real time fast processing</li>
+<li>Normalized</li>
+<li>Examples: Financial transactional systems, ATM Center</li>
+</ul>
+<h3 id="olap">OLAP<a hidden class="anchor" aria-hidden="true" href="#olap">#</a></h3>
+<p><em>Online Analytical Processing</em> models used for datawarehouse and datamart applications.</p>
+<ul>
+<li>Analytical</li>
+<li>Slow queries</li>
+<li>Denormalized</li>
+<li>Historical data</li>
+<li>Example: Recommendation Systems</li>
+</ul>
+<h3 id="references">References<a hidden class="anchor" aria-hidden="true" href="#references">#</a></h3>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=xOn-DJbUi1w&amp;t=61s">https://www.youtube.com/watch?v=xOn-DJbUi1w&amp;t=61s</a></li>
+</ol>
+<h1 id="thats-it">That’s it!<a hidden class="anchor" aria-hidden="true" href="#thats-it">#</a></h1>
+<p>Happy learning ..! Will update other terms in future!</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2022 <a href="https://vidush.netlify.app/">Vidush</a></span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

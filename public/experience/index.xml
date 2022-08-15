@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experiences on Vidush</title>
+    <link>https://vidush.netlify.app/experience/</link>
+    <description>Recent content in Experiences on Vidush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vidush.netlify.app/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Engineer</title>
+      <link>https://vidush.netlify.app/experience/dataengineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidush.netlify.app/experience/dataengineer/</guid>
+      <description>Axiata Digital Labs</description>
+    </item>
+    
+    <item>
+      <title>Data Scientist</title>
+      <link>https://vidush.netlify.app/experience/datascientist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidush.netlify.app/experience/datascientist/</guid>
+      <description>Insharp Technologies (PVT) Ltd</description>
+    </item>
+    
+    <item>
+      <title>Instructor</title>
+      <link>https://vidush.netlify.app/experience/instructor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidush.netlify.app/experience/instructor/</guid>
+      <description>Department of Computer Science &amp;amp; Engineering, Faculty of Engineering, SEUSL</description>
+    </item>
+    
+    <item>
+      <title>Electronic Engineer Intern</title>
+      <link>https://vidush.netlify.app/experience/vega/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidush.netlify.app/experience/vega/</guid>
+      <description>Vega Innovations</description>
+    </item>
+    
+    <item>
+      <title>Electrical Engineer Intern</title>
+      <link>https://vidush.netlify.app/experience/leco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidush.netlify.app/experience/leco/</guid>
+      <description>Lanka Electricity Company Private Limited</description>
+    </item>
+    
+  </channel>
+</rss>
