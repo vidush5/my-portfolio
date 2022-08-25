@@ -9,7 +9,7 @@ weight: 1
 
 01. Google Cloud Professional Certified Data Engineer
 <a href="https://www.credential.net/d4635b92-2616-4e04-8eff-f142a3ea0301" target="_blank">
-  <img width="100" height="100"  align="center"  src="/certifications/GCPLogo.png"/>
+  <img width="100" height="100"  align="center"  src="/certifications/GCPLogo2.jpg"/>
 </a>
 
 02. Microsoft Certified: Azure Fundamentals
