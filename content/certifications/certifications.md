@@ -14,12 +14,12 @@ weight: 1
 
 02. Microsoft Certified: Azure Data Engineer Associate
 <a href="https://www.credly.com/badges/45f40bba-600d-4ed2-895b-b7b24adc669e/public_url" target="_blank">
-  <img width="120" height="120"  align="center"  src="/certifications/MSDE.jpg"/>
+  <img width="1000" height="1000"  align="center"  src="/certifications/MSDE.jpg"/>
 </a> 
 
 03. Microsoft Certified: Azure Data Scientist Associate
 <a href="https://www.credly.com/badges/038bf3d9-c07b-411e-8753-5d5508982c62/public_url" target="_blank">
-  <img width="120" height="120"  align="center"  src="/certifications/MSDS.jpg"/>
+  <img width="1000" height="1000"  align="center"  src="/certifications/MSDS.jpg"/>
 </a>
 
 04. Microsoft Certified: Azure Fundamentals
