@@ -12,23 +12,37 @@ weight: 1
   <img width="100" height="100"  align="center"  src="/certifications/GCPLogo2.jpg"/>
 </a>
 
-02. Microsoft Certified: Azure Fundamentals
+02. Microsoft Certified: Azure Data Engineer Associate
+<a href="https://www.credly.com/badges/45f40bba-600d-4ed2-895b-b7b24adc669e/public_url" target="_blank">
+  <img width="100" height="100"  align="center"  src="/certifications/MSDE.jpg"/>
+</a> 
+
+03. Microsoft Certified: Azure Data Scientist Associate
+<a href="https://www.credly.com/badges/038bf3d9-c07b-411e-8753-5d5508982c62/public_url" target="_blank">
+  <img width="100" height="100"  align="center"  src="/certifications/MSDS.jpg"/>
+</a>
+
+04. Microsoft Certified: Azure Fundamentals
 <a href="https://www.credly.com/badges/7e0e33f4-c2fa-4496-b32f-0e109ae7f7bd/public_url" target="_blank">
   <img width="100" height="100"  align="center"  src="/certifications/AzureFundamental.png"/>
 </a>
-03. Microsoft Certified: Azure Data Fundamentals
+
+05. Microsoft Certified: Azure Data Fundamentals
 <a href="https://www.credly.com/badges/7842d86d-24c8-4b3b-a916-9c4c8a963e3d/public_url" target="_blank">
   <img width="100" height="100" align="center"  src="/certifications/DataFundamentals.png"/>
 </a>
-04. Microsoft Certified: Azure AI Fundamentals
+
+06. Microsoft Certified: Azure AI Fundamentals
 <a href="https://www.credly.com/badges/a09f43df-ee8b-4226-b51a-9ddb979da638/public_url" target="_blank">
   <img width="100" height="100"  align="center"  src="/certifications/AIFundamentals.png"/>
 </a>
-05. Microsoft Certified: Data Analyst Associate
+
+07. Microsoft Certified: Data Analyst Associate
 <a href="https://www.credly.com/badges/87cb2b6e-040b-4314-b001-4686d92e709d/public_url" target="_blank">
   <img width="100" height="100"  align="center"  src="/certifications/DataAnalyst.png"/>
 </a>
-06. Cisco Certified Network Associate - CSCO13300821
+
+08. Cisco Certified Network Associate - CSCO13300821
 <a href="https://www.credly.com/badges/3146c7bc-7c6f-4990-b9e9-719aa8ed8dfc/public_url" target="_blank">
   <img width="100" height="100" border="0" align="center"  src="/certifications/CiscoCCNA.png"/>
 </a>
