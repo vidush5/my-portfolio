@@ -8,8 +8,8 @@ weight: 201
 <div style="text-align: justify"> Hello there, I am <b>Vidushraj</b>, people usually call me Vidush. I’m currently working as a Data Engineer and living in Colombo, Sri Lanka. Ardent, fast and intrusive learner with persistance and love of research. I have an affection on prying through terabytes of data to find insights and telling stories to the end-user through visualization. My research interests lies in Natural Language Processing, Big Data Analytics and Data Science. If you have any opportunity and you think that suits for me, let’s connect and discuss 😊! </div>
 
 ## Education
-South Eastern University of Sri Lanka </br>
 Bachelor of Science in Electrical and Eletronic Engineering </br>
+South Eastern University of Sri Lanka </br>
 Grade: Second class upper division
 
 ## Skills
@@ -28,11 +28,10 @@ Grade: Second class upper division
 <code><b>Pandas</b></code>
 <code><b>Spacy</b></code>
 <code><b>PySpark</b></code>
-<code><b>Azure</b></code>
-<code><b>AWS(EC2, S3)</b></code>
-<code><b>GCP</b></code>
+<code><b>Azure(ADF, ADLS, Databricks, Azure Synapse Analytics, Azure ML Studio)</b></code>
+<code><b>AWS(EC2, S3, Amazon Sagemaker, AWS RedShift, AWS EMR, Athena, AWS Glue)</b></code>
+<code><b>GCP(BigQuery)</b></code>
 <code><b>Docker</b></code>
-<code><b>Exploratory Data Analysis</b></code>
 
 </br>
 
