@@ -6,7 +6,7 @@ weight: 201
 --- 
 
 <div style="text-align: justify"> Hello there, I am <b>Vidushraj</b>, people usually call me Vidush. I’m currently working as a Data Engineer and living in Colombo, Sri Lanka. Ardent, fast and intrusive learner with persistance and love of research. I have an affection on prying through terabytes of data to find insights and telling stories to the end-user through visualization. I believe that effective communication and collaboration are essential to building successful data systems that meet the needs of end-users. My research interests lies in Big Data Analytics, Data Science and  Natural Language Processing. 
-
+&nbsp;
 
 
 Whether you are an employer looking for a skilled data engineer or a fellow data enthusiast interested in learning more about data engineering, I hope that my portfolio provides insight into my skills, experience, and passion for this exciting field. Thank you for visiting my portfolio 😊! </div>
