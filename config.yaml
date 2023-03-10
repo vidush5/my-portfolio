@@ -19,7 +19,7 @@ menu:
     weight: 30
   - identifier: projects
     name: Projects
-    url: /projects
+    url: https://vidush5.github.io/
     weight: 40
   - identifier: experience
     name: Experiences
