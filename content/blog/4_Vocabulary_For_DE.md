@@ -46,6 +46,7 @@ Exists on top of several databases and used for business intelligence.
 ##### Examples
 01. Google BigQuery
 02. Snowflake
+03. Amazon Redshift
 
 
 ### Apache Impala
@@ -72,9 +73,37 @@ Open-source streaming platform.
 - Historical data
 - Example: Recommendation Systems
 
+### Node
+"Node" refers to a vital unit within a distributed computing system. It encompasses compute, memory (RAM), and storage resources essential for executing tasks efficiently across the cluster.
+
+### Cluster
+Group of nodes.
+
+### Replication Factor
+Denotes the number of copies maintained for each data block across the distributed system.
+
+### Principle of Data Locality
+Processing the data where it resides to minimize the data movement.By processing the dat at the its location we can eliminate network traffic and enhance the performance.
+
+### Struggle
+Slowest performing machine.
+
+### Speculative Execution
+Parallelizing the tasks that is performing by slow machine to other machine to get the results faster.
+
+### Executor
+It's a computational unit responsible for executing tasks within a distributed computing framework like Apache Spark.
+
+### Transformation
+Transform the data from one stage to another stage.
+
+### Action 
+Transformation will execute once the Action is called. Simple trigger the execution of transformations.
+
 
 ### References
 01. https://www.youtube.com/watch?v=xOn-DJbUi1w&t=61s
+02. https://www.youtube.com/watch?v=dtjTBzLbYuI
 
 # That’s it!
 

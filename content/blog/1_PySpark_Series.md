@@ -48,7 +48,7 @@ In Apache Spark, RDD, DataFrame & Dataset are three different APIs provided to w
 
 # PySpark | On-Heap vs Off-Heap
 
-***On-Heap Memory***: In worker node memory which is controlled by executor. (Controlled by JVM process). We have 04 parts,
+***On-Heap Memory***: In worker node, memory which is controlled by executor. (Controlled by JVM process). We have 04 parts,
 
 - Reserved Memory: Reserved by Spark for internal purposes.
 
@@ -58,6 +58,27 @@ In Apache Spark, RDD, DataFrame & Dataset are three different APIs provided to w
 
 - Storage Memory: JVM heap space reserved for cached data
 
-***Off-Heap Memory***: In worker node memory which is not controlled by executor. (Controlled by OS)
+***Off-Heap Memory***: In worker node, memory which is not controlled by executor. (Controlled by OS)
 
 # DataBricks: Cluster Deployment
+
+## Cluster Types
+
+Two types of cluster in Databricks.
+
+- All-Purpose Clusters / Interactive: Mainly used to analyze data interactively using databricks notebooks. Can able to manually stop & restart. Multiple users can share these clusters to do collaborative interactive analysis.
+
+- Job Clusters: Databricks job scheduler creates these clusters when we run a job on a new job cluster. Mainly consider for running fast & robust automated tasks. Create automatically when we run the job in the new job cluster and terminate the cluster once the job ends. Cnnot be restarted.
+
+There are three modes of clusters that databricks supports, based on the cluster usage.
+
+- Standard clusters: Suitable for single user
+- High concurrent clusters
+- Single node clusters: Runs the job only on driver node & no worker nodes are provisioned.
+
+
+
+
+
+
+
