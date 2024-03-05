@@ -1,6 +1,6 @@
 ---
 title: "Docker For Data Engineers"
-description: "Terms used by Data Engineers"
+description: "Docker Basics Guide "
 dateString: March 2024
 draft: false
 weight: 106
