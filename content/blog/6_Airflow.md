@@ -46,6 +46,33 @@ cover:
 3. Web Server/UI: Flast web application talking to Metadata.
 4. Worker + Executor: (Different types of Executors: Sequential, Local, Celery, Dask, Mesos, Kubernetes)
 
+## Installation using Docker
+
+### What is Docker?
+Docker is a containerization platform for building applications based on containers. Docker containers are also referred to as 'light-weight VMs'.
+
+Docker compose is a tool for defining and running multi container docker applications.
+
+clone the below git hub repository to your local machine.
+URL - https://github.com/puckel/docker-airflow
+
+Commands order
+1. To run the docker compose:
+docker-compose -f .\docker-compose-LocalExecutor.yml up -d
+
+2. To check the present images in the system:
+docker images
+
+3. To check the running containers:
+docker ps
+
+
+
+
+
+
+
+
 ### References
 01. Apache Airflow | A Real-Time & Hands-On Course on Airflow - Udemy Course
 
