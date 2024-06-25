@@ -75,7 +75,7 @@ params:
     - name: "instagram"
       url: "https://www.instagram.com/vidushraj5/"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1i8DDJnTBBIt8JDWdRjxXt1IuzcYvgnZt/view?usp=share_link"
+      url: "https://drive.google.com/file/d/12gsfU9YwDaEtpoxtrwdY8ZvHIAnK1srQ/view?usp=drive_link"
 
   # text search
   fuseOpts:
