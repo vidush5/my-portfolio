@@ -9,7 +9,7 @@ weight: 1
 
 01. Microsoft Certified: Fabric Analytics Engineer Associate
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/VidushrajChandresekaran-1147/F2008D6C5586D4CC?sharingId=DD14128009B49F23" target="_blank">
-  <img width="120" height="100"  align="center"  src="/certifications/Fabric.png"/>
+  <img width="120" height="100"  align="center"  src="/certifications/Fabric.jpg"/>
 </a>
 
 
