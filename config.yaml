@@ -43,6 +43,8 @@ params:
   ShowCodeCopyButtons: true
   hideMeta: false
 
+  social: {}
+
   # for enchanced SEO
   env: production
   # Home Page
