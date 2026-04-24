@@ -5,7 +5,7 @@ showToc: false
 weight: 201
 --- 
 
-<div style="text-align: justify"> Hello there, I am <b>Vidushraj</b>, people usually call me Vidush. I’m currently working as a Data Engineer and living in Colombo, Sri Lanka. Ardent, fast and intrusive learner with persistance and love of research. I have an affection on prying through terabytes of data to find insights and telling stories to the end-user through visualization. I believe that effective communication and collaboration are essential to building successful data systems that meet the needs of end-users. My research interests lies in Big Data Analytics, Data Science and  Natural Language Processing. 
+<div style="text-align: justify"> Hello there, I am <b>Vidushraj</b>, people usually call me Vidush. I am an experienced Data Engineer currently living in Singapore. I have a strong interest in data engineering and enjoy working with large volumes of data to build reliable and efficient data pipelines. I focus on creating systems that help transform raw data into meaningful insights for end users. I also value clear communication and collaboration to ensure data solutions meet business needs.
 &nbsp;
 
 
