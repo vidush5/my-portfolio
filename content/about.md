@@ -18,19 +18,18 @@ Grade: Second class upper division
 
 ## Skills
 <code><b>Python</b></code>
-<code><b>SQL (SQL Server, MySQL)</b></code>
+<code><b>SQL (SQL Server, MySQL, Postgres)</b></code>
 <code><b>Snowflake</b></code>
-<code><b>Impala</b></code>
+<code><b>Hive</b></code>
 <code><b>Hadoop</b></code>
-<code><b>NoSQL (MongoDB)</b></code>
+<code><b>Control -M</b></code>
 <code><b>Power Bi</b></code>
 <code><b>Tableau</b></code>
 <code><b>Power Apps</b></code>
-<code><b>Streamlit</b></code>
+<code><b>Airflow</b></code>
 <code><b>TensorFlow</b></code>
-<code><b>Keras</b></code>
 <code><b>Pandas</b></code>
-<code><b>Spacy</b></code>
+<code><b>Databricks</b></code>
 <code><b>PySpark</b></code>
 <code><b>Azure(ADF, ADLS, Databricks, Azure Synapse Analytics, Azure ML Studio)</b></code>
 <code><b>AWS(EC2, S3, Amazon Sagemaker, AWS RedShift, AWS EMR, Athena, AWS Glue)</b></code>
