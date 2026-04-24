@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vidush.netlify.app/certifications/professional-certifications/</loc>
+    <loc>http://localhost:1313/certifications/professional-certifications/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://vidush.netlify.app/certifications/membership/</loc>
+    <loc>http://localhost:1313/certifications/membership/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/3_azuresynapse_vs_databricks/</loc>
+    <loc>http://localhost:1313/blog/3_azuresynapse_vs_databricks/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/7_deltalake/</loc>
+    <loc>http://localhost:1313/blog/7_deltalake/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/5_docker_for_dataengineers/</loc>
+    <loc>http://localhost:1313/blog/5_docker_for_dataengineers/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/6_airflow/</loc>
+    <loc>http://localhost:1313/blog/6_airflow/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/1_pyspark_series/</loc>
+    <loc>http://localhost:1313/blog/1_pyspark_series/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/2_sql_query_optimization/</loc>
+    <loc>http://localhost:1313/blog/2_sql_query_optimization/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/4_vocabulary_for_de/</loc>
+    <loc>http://localhost:1313/blog/4_vocabulary_for_de/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/experience/dataengineer/</loc>
+    <loc>http://localhost:1313/experience/dataengineer/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/experience/datascientist/</loc>
+    <loc>http://localhost:1313/experience/datascientist/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/experience/instructor/</loc>
+    <loc>http://localhost:1313/experience/instructor/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/experience/vega/</loc>
+    <loc>http://localhost:1313/experience/vega/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/experience/leco/</loc>
+    <loc>http://localhost:1313/experience/leco/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/certifications/</loc>
+    <loc>http://localhost:1313/certifications/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://vidush.netlify.app/publications/publications/</loc>
+    <loc>http://localhost:1313/publications/publications/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://vidush.netlify.app/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://vidush.netlify.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://vidush.netlify.app/projects/project/</loc>
+    <loc>http://localhost:1313/projects/project/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://vidush.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
